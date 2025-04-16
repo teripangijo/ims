@@ -1,0 +1,7 @@
+# Framework Web
+django  # Atau versi terbaru yang stabil saat Anda mulai
+psycopg2-binary   # Adapter PostgreSQL untuk Python
+python-dotenv     # Untuk membaca variabel dari file .env
+django-htmx       # Integrasi HTMX untuk Django
+openpyxl          # Untuk membaca/menulis file Excel (.xlsx)
+pandas            # Untuk manipulasi data, berguna untuk import/export Excel/CSV
